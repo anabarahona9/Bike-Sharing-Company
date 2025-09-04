@@ -28,8 +28,8 @@ Recommendations provite to increase memberships
 ### 3. Special discounts for frequent riders 
 ### 4. Reward program for long-distance riders 
 
-
-
+You can explore the interactive report on Power Bi in the following link: 
+[View report on Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjYwZGE4ZjYtNDliMy00ZTg4LTg1ZTYtNDc0MjFmMjk2YWYzIiwidCI6ImFjYTUxNjMxLTAwZmUtNDkwZC05MWFiLTE2M2VmODcyNjBlZSIsImMiOjR9)
 
 
 
