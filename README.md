@@ -1,5 +1,7 @@
 # Bike Sharing Analysis — Chicago
 
+![Dashboard Preview](dashboard_preview.png)
+
 ## English
 
 ### Overview
